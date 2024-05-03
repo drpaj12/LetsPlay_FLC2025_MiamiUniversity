@@ -1,0 +1,323 @@
+This is the reading list of resources.  They are not hosted here as there are copyright laws on the information.  You are welcome to request.
+
+Books:
+---
+2019
+@misc{heath2019prediction,
+  title={Prediction machines: the simple economics of artificial intelligence: by Ajay Agrawal, Joshua Gans and Avi Goldfarb, Published in 2018 by Harvard Business Review Press, 272 pp., 30.00(hardcover),KindleEdition: 16.19, ISBN: 978-1-633695672},
+  author={Heath, Donald R},
+  year={2019},
+  publisher={Taylor \& Francis}
+}
+- A book on how to think of AI and why it's impacting our world
+
+--- 
+2005
+@book{sawyer2005cambridge,
+  title={The Cambridge handbook of the learning sciences},
+  author={Sawyer, R Keith},
+  year={2005},
+  publisher={Cambridge University Press}
+}
+Chapter 2 - Robert Shank "Why learning Sciences" - one of the 1960 AI who thought about how a human thinks.  One of the advocates for LS => Learning Sciences and the related history...
+
+---
+1994
+@book{newell1994unified,
+  title={Unified theories of cognition},
+  author={Newell, Allen},
+  year={1994},
+  publisher={Harvard University Press}
+}
+- Tried to make a unified theory of cognition with the computer as analogy.  Nice ideas, challenging read.
+
+---
+2009 - 2nd Edition
+@article{kolb2009experiential,
+  title={Experiential learning theory: A dynamic, holistic approach to management learning, education and development},
+  author={Kolb, Alice Y and Kolb, David A},
+  journal={The SAGE handbook of management learning, education and development},
+  volume={7},
+  number={2},
+  pages={42--68},
+  year={2009}
+}
+Kolb's book on experiential learning
+
+---
+---
+---
+Papers and Summary:
+---
+EDUCATIONAL THEORY and THINKING/LEARNING/COGNITION ...
+---
+2015
+@book{zhou2015educational,
+  title={Educational learning theories},
+  author={Zhou, Molly and Brown, David},
+  year={2015},
+  publisher={Education Open Textbooks}
+}
+- Nice introduction (for a college) on eudcational learning theories: Piaget, Newell, Behaviorlism, ...
+
+-----
+2023
+@article{doroudi2023intertwined,
+  title={The intertwined histories of artificial intelligence and education},
+  author={Doroudi, Shayan},
+  journal={International Journal of Artificial Intelligence in Education},
+  volume={33},
+  number={4},
+  pages={885--928},
+  year={2023},
+  publisher={Springer}
+}
+Paper goes through the models of thoughts by educational researchers such a Newell, Piaget and connects the AI ideas with them.
+
+---
+LLMs AS RELATED to EDUCATION
+---
+
+---
+2023
+@misc{koh2023learning,
+  title={Learning, teaching, and assessment with generative artificial intelligence: towards a plateau of productivity},
+  author={Koh, Elizabeth and Doroudi, Shayan},
+  journal={Learning: Research and Practice},
+  volume={9},
+  number={2},
+  pages={109--116},
+  year={2023},
+  publisher={Taylor \& Francis}
+}
+- Paper is a high-level look of LLMs in the educational text with summaries of others work.
+
+---
+2023
+@article{ojeda2023learning,
+  title={Learning About AI to Learn About Learning: Artificial Intelligence as a Tool for Metacognitive Reflection},
+  author={Ojeda-Ramirez, Santiago and Rismanchian, Sina and Doroudi, Shayan},
+  year={2023},
+  publisher={EdArXiv}
+}
+- AI and Metacognition - models of view including LLMs
+
+
+---
+2023
+@inproceedings{yu2023generative,
+  title={Generative artificial intelligence empowers educational reform: current status, issues, and prospects},
+  author={Yu, Hao and Guo, Yunyun},
+  booktitle={Frontiers in Education},
+  volume={8},
+  pages={1183162},
+  year={2023},
+  organization={Frontiers Media SA}
+}
+- LLM and GANs as applied to educational reform
+
+---
+GENERAL
+---
+---
+2018 
+AIED conference proceedings
+- Gives a flavor of how people are thinking about this
+
+---
+2024
+@article{bond2024meta,
+  title={A meta systematic review of artificial intelligence in higher education: a call for increased ethics, collaboration, and rigour},
+  author={Bond, Melissa and Khosravi, Hassan and De Laat, Maarten and Bergdahl, Nina and Negrea, Violeta and Oxley, Emily and Pham, Phuong and Chong, Sin Wang and Siemens, George},
+  journal={International Journal of Educational Technology in Higher Education},
+  volume={21},
+  number={1},
+  pages={4},
+  year={2024},
+  publisher={Springer}
+}
+- A Meta-study (Systematic) approach suggesting what is needed in future in this research space -> Interdisciplinary
+
+---
+@article{tilak2023cybernetics,
+  title={Cybernetics, education, and psychology: Discovering potentials (yet) unearthed},
+  author={Tilak, Shantanu},
+  journal={Psychology},
+  volume={46},
+  number={1},
+  pages={12--25},
+  year={2023}
+}
+- A Ed Psych vie of cybernetics and education - has aspects of Constructivism - nice ideas
+
+---
+@article{tuomi2023beyond,
+  title={Beyond Mastery: Toward a Broader Understanding of AI in Education},
+  author={Tuomi, Ilkka},
+  journal={International Journal of Artificial Intelligence in Education},
+  pages={1--11},
+  year={2023},
+  publisher={Springer}
+}
+- A Skinner Box idea of learning with AI
+
+---
+APPLICATIONS of AI in COLLEGE LEARNING
+---
+@article{schulze2024empirical,
+  title={Empirical assessment of ChatGPT’s answering capabilities in natural science and engineering},
+  author={Schulze Balhorn, Lukas and Weber, Jana M and Buijsman, Stefan and Hildebrandt, Julian R and Ziefle, Martina and Schweidtmann, Artur M},
+  journal={Scientific Reports},
+  volume={14},
+  number={1},
+  pages={4998},
+  year={2024},
+  publisher={Nature Publishing Group UK London}
+}
+- Using the tools in a real setting
+
+---
+2023
+@article{giam2023measures,
+  title={Measures To Develop the Ability To Self-Study Chemistry For High School Students With the Support of AI Chatbot},
+  author={Giam, Nguyen Minh and Van Doc, Nguyen and Nam, Nguyen Thi Hoai and Giang, Nguyen Thi Huong and Thanh, Ngo Tu},
+  journal={Journal of Education For Sustainable Innovation},
+  volume={1},
+  number={1},
+  pages={49--60},
+  year={2023}
+}
+- Actual chatbot usage in chemistry learning/teaching
+
+---
+2023
+@article{denny2023promptly,
+  title={Promptly: Using prompt problems to teach learners how to effectively utilize ai code generators},
+  author={Denny, Paul and Leinonen, Juho and Prather, James and Luxton-Reilly, Andrew and Amarouche, Thezyrie and Becker, Brett A and Reeves, Brent N},
+  journal={arXiv preprint arXiv:2307.16364},
+  year={2023}
+}
+- Applied to learning to Code
+
+---
+2024
+@article{denny2024computing,
+  title={Computing education in the era of generative AI},
+  author={Denny, Paul and Prather, James and Becker, Brett A and Finnie-Ansley, James and Hellas, Arto and Leinonen, Juho and Luxton-Reilly, Andrew and Reeves, Brent N and Santos, Eddie Antonio and Sarsa, Sami},
+  journal={Communications of the ACM},
+  volume={67},
+  number={2},
+  pages={56--67},
+  year={2024},
+  publisher={ACM New York, NY, USA}
+}
+- Same author applying to coding
+
+---
+2023
+@inproceedings{liffiton2023codehelp,
+  title={Codehelp: Using large language models with guardrails for scalable support in programming classes},
+  author={Liffiton, Mark and Sheese, Brad E and Savelka, Jaromir and Denny, Paul},
+  booktitle={Proceedings of the 23rd Koli Calling International Conference on Computing Education Research},
+  pages={1--11},
+  year={2023}
+}
+- And again above
+
+---
+2024
+@article{kevian2024capabilities,
+  title={Capabilities of Large Language Models in Control Engineering: A Benchmark Study on GPT-4, Claude 3 Opus, and Gemini 1.0 Ultra},
+  author={Kevian, Darioush and Syed, Usman and Guo, Xingang and Havens, Aaron and Dullerud, Geir and Seiler, Peter and Qin, Lianhui and Hu, Bin},
+  journal={arXiv preprint arXiv:2404.03647},
+  year={2024}
+}
+- GREAT paper looking at Control Theory with an LLM and providing a benchmark to test between as well as in future!!!
+
+--- 
+EXPERIENTIAL LEARNING - KOLB CYCLE
+---
+2005
+@article{kolb2005learning,
+  title={Learning styles and learning spaces: Enhancing experiential learning in higher education},
+  author={Kolb, Alice Y and Kolb, David A},
+  journal={Academy of management learning \& education},
+  volume={4},
+  number={2},
+  pages={193--212},
+  year={2005},
+  publisher={Academy of Management Briarcliff Manor, NY 10510}
+}
+- The Kolb cycle
+
+---
+2020
+@article{morris2020experiential,
+  title={Experiential learning--a systematic review and revision of Kolb’s model},
+  author={Morris, Thomas Howard},
+  journal={Interactive learning environments},
+  volume={28},
+  number={8},
+  pages={1064--1077},
+  year={2020},
+  publisher={Taylor \& Francis}
+}
+Systematic review and criticism
+
+---
+2015
+@article{schenck2015evolving,
+  title={Evolving Kolb: Experiential education in the age of neuroscience},
+  author={Schenck, Jeb and Cruickshank, Jessie},
+  journal={Journal of experiential education},
+  volume={38},
+  number={1},
+  pages={73--95},
+  year={2015},
+  publisher={SAGE Publications Sage CA: Los Angeles, CA}
+}
+- Strong critique and a suggestion of a new model
+
+---
+THE NEOCORTEX AND AGI IDEAS
+---
+2011
+@article{lui2011development,
+  title={Development and evolution of the human neocortex},
+  author={Lui, Jan H and Hansen, David V and Kriegstein, Arnold R},
+  journal={Cell},
+  volume={146},
+  number={1},
+  pages={18--36},
+  year={2011},
+  publisher={Elsevier}
+}
+Ideas of the neocortex and thinking
+
+---
+1995
+@article{mountcastle1995evolution,
+  title={The evolution of ideas concerning the function of the neocortex},
+  author={Mountcastle, Vernon},
+  journal={Cerebral Cortex},
+  volume={5},
+  number={4},
+  pages={289--295},
+  year={1995},
+  publisher={Oxford University Press}
+}
+- Vernon Mountcastle and his ideas of the neocortex
+
+---
+2021
+@article{hole2021thousand,
+  title={A thousand brains: toward biologically constrained AI},
+  author={Hole, Kjell J{\o}rgen and Ahmad, Subutai},
+  journal={SN Applied Sciences},
+  volume={3},
+  number={8},
+  pages={743},
+  year={2021},
+  publisher={Springer}
+}
+- Company that's building AGI and why they model based on the Neocortex
