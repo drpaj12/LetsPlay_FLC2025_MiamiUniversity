@@ -117,6 +117,16 @@ LLMs AS RELATED to EDUCATION
 - LLM and GANs as applied to educational reform
 
 ---
+2023
+@article{serrano2023language,
+  title={Language Models: A Guide for the Perplexed},
+  author={Serrano, Sofia and Brumbaugh, Zander and Smith, Noah A},
+  journal={arXiv preprint arXiv:2311.17301},
+  year={2023}
+}
+- LLM, how they work, ideas on AGI
+
+---
 GENERAL
 ---
 ---
