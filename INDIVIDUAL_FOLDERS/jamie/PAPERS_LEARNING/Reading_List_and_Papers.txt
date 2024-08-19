@@ -331,3 +331,34 @@ Ideas of the neocortex and thinking
   publisher={Springer}
 }
 - Company that's building AGI and why they model based on the Neocortex
+
+---
+Teaching Virtual Students
+---
+@inproceedings{li2013general,
+  title={General and efficient cognitive model discovery using a simulated student},
+  author={Li, Nan and Stampfer, Eliane and Cohen, William and Koedinger, Kenneth},
+  booktitle={Proceedings of the Annual Meeting of the Cognitive Science Society},
+  volume={35},
+  number={35},
+  year={2013}
+}
+
+@article{koedinger2023astonishing,
+  title={An astonishing regularity in student learning rate},
+  author={Koedinger, Kenneth R and Carvalho, Paulo F and Liu, Ran and McLaughlin, Elizabeth A},
+  journal={Proceedings of the National Academy of Sciences},
+  volume={120},
+  number={13},
+  pages={e2221311120},
+  year={2023},
+  publisher={National Acad Sciences}
+}
+
+@article{koedinger2012automated,
+  title={Automated Student Model Improvement.},
+  author={Koedinger, Kenneth R and McLaughlin, Elizabeth A and Stamper, John C},
+  journal={International Educational Data Mining Society},
+  year={2012},
+  publisher={ERIC}
+}
