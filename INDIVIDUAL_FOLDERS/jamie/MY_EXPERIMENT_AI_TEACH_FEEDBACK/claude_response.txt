@@ -1,0 +1,130 @@
+I'll analyze your teaching of Faraway and provide structured feedback.
+
+0) Initial Feedback:
+Your teach focused heavily on the mechanical aspects of gameplay but skipped the thematic context and overall goal. 
+While you did cover the core mechanisms, the teaching order made it challenging for players to understand the strategic implications, particularly around scoring. 
+The interactive approach of starting play while teaching helped, but some key concepts like the scoring direction versus play direction remained unclear until late in the game.
+
+1) Proposed Teaching Outline: In file...
+
+2) Teaching Strategy Reasoning:
+- Start with theme and goal to provide context for mechanical decisions
+- Introduce core concepts before details to build a framework for understanding
+- Show card anatomy early as it's referenced throughout the teach
+- Demonstrate turn structure with an example round to reinforce concepts
+- Leave detailed scoring explanation until after basic flow is understood
+- End with strategic considerations to help players make informed decisions
+
+3) Comparison to Your Teach:
+Similarities:
+- Interactive approach using actual gameplay
+- Focus on mechanical execution
+- Progressive revelation of concepts
+
+Differences:
+- Your teach skipped thematic context
+- Started with hand management before core concepts
+- Delayed explanation of scoring direction vs play direction
+- Less emphasis on resource rarity and strategic implications
+- More reactive to questions rather than structured presentation
+
+4) Evaluation Summary:
+The teach was partially successful but had some notable issues:
+- Players showed confusion about scoring direction vs play direction
+- Resource requirements and prerequisites weren't fully understood initially
+- Sanctuary card mechanics required multiple clarifications
+- Players struggled with strategic planning due to unclear scoring implications
+- The game's results (tied scores) suggest players managed to grasp core concepts by game end
+
+5) Suggested Improvements:
+- Begin with theme and goal to provide context
+- Explicitly state the play direction vs scoring direction early
+- Use visual aids to demonstrate scoring progression
+- Explain resource rarity and its strategic implications upfront
+- Provide a clear example of complete round scoring before starting
+- Create a quick reference guide for quest types and scoring conditions
+- Consider teaching scoring system before starting actual play
+- Use pre-arranged hands for first round to demonstrate key concepts
+
+The teach succeeded in getting players through the game but could be more effective with a more structured approach 
+focusing on strategic understanding rather than just mechanical execution. The frequency of clarifying questions during 
+play suggests that some core concepts could have been explained more clearly upfront.
+
+Follow up prompt:
+"Assuming the game has to be experienced due to the challenging concept of scoring from right to left (which is a hard concept to understand) 
+can you update your outline such that more people will understand this key idea without having to experience it."
+
+Response: teaching-outline(1).md
+
+Follow up two:
+Can you rate how well I taught this game based on the transcript and suggest what I should do the next time I teach this.
+
+Response: I'll analyze your teaching performance based on the transcript and provide structured feedback.
+
+Rating: 6/10 - Functional but with significant room for improvement
+
+Strengths demonstrated in transcript:
+1. Interactive approach - You got players involved quickly
+2. Patient with questions - You consistently answered player queries
+3. Supportive tone - You reassured players when they made mistakes
+4. Real-time corrections - You allowed players to adjust moves when they misunderstood rules
+
+Areas that needed improvement:
+1. Structure - Your teach was reactive rather than proactive, leading to scattered information delivery
+2. Scoring explanation - The critical right-to-left scoring mechanism wasn't clear until late in the game
+3. Theme omission - You explicitly skipped the theme ("first two pages are literally about the world and I decided to leave that out")
+4. Strategic context - Players didn't understand the importance of their choices until after making them
+
+Evidence of confusion from transcript:
+1. Multiple players expressed uncertainty about scoring:
+   - "I have no idea what this card does"
+   - "I don't think I have like any points here"
+   - "My dyslexic brain reversed all this"
+
+2. Resource understanding issues:
+   - "Does the color matter for that?"
+   - "Oh, the color doesn't matter for that?"
+
+3. Sanctuary card confusion:
+   - Multiple discussions about how many cards to draw
+   - Uncertainty about when they could be played
+
+Recommendations for next teach:
+
+1. Pre-game Setup:
+- Prepare a sample 3-4 card tableau for scoring demonstration
+- Have reference cards ready for resource frequency
+- Keep your theme introduction very brief but don't skip it entirely
+
+2. Structure Your Teach:
+- Start with the game's goal
+- Demo scoring with pre-set cards before any gameplay
+- Use consistent directional language ("journey forward, score backward")
+- Show a complete round with sample hands before real play begins
+
+3. Visual Aids:
+- Lay out cards in a clear line while teaching
+- Use arrows or gestures to show play direction vs scoring direction
+- Keep sample resource combinations visible during early rounds
+
+4. Practice Phrases:
+- "We're building our journey from left to right"
+- "When we look back at our journey, we'll score right to left"
+- "Earlier cards can help later cards score, but not the other way around"
+
+5. Early Game Support:
+- Narrate the first few turns' implications
+- Point out scoring opportunities as they arise
+- Highlight resource frequency importance early
+
+Key Quote from Transcript:
+"You will understand it the second time you play, first time it's a disaster."
+While this proved true, your goal should be to minimize the "disaster" feeling of the first play.
+
+Your teach wasn't bad - players completed the game and some even tied for the win. However, you can make it significantly clearer by implementing these changes. The key is to front-load the critical scoring concept while keeping the early rounds more guided.
+
+This is evidenced by this player quote near the end:
+"Now, I realize the beginning. So... yeah, yeah. Sometimes 16... You said 16? Yes. Well done."
+Players eventually understood, but earlier comprehension would have led to more strategic play throughout.
+
+Would you like me to elaborate on any of these points or provide specific examples for the pre-set tableau demonstration?

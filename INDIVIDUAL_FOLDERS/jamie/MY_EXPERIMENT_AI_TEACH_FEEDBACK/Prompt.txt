@@ -1,0 +1,11 @@
+For Claude Project with Rules, Transcript of everything and Just Teach 
+
+Problem/Task: "Please evaluate my teach of the game Faraway to a group of 5 other people (two of the five had already played the game) and critique my teach of the game"
+2: Prompt: Please solve the above promt using the following steps encased in the step numbers:
+0) Give your feedback of how I taught the game.
+1) Produce an outline of how you would teach the game as a text file.
+2) Provide a step-by-step document, explaining your reasoning of why you would teach based on your outline above.
+3) Compare your outline to my teach and provide an evaluation of the differences and similarities noting them.
+4) Summarize your final evaluation of how well the teach went noting the results from 3 and the questions/misunderstandings seen in the full transcript of the games progress.
+5) Reflect on the problem-solving process and suggest potential improvements.
+
