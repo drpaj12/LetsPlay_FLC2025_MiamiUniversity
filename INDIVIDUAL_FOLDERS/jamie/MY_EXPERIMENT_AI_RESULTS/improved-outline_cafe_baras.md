@@ -4,6 +4,7 @@
 - "In Cafe Baras, we're building cozy cafes to attract capybara customers"
 - "Your goal is to create the best cafe with the right foods and decor to make customers happy"
 - "The player with the most points at the end wins"
+- "The game ends when someone gets their third regular customer"
 
 ## 2. Card Anatomy & Dual-Purpose Concept (2 minutes)
 - Show a cafe card and explain the dual-purpose nature FIRST:
@@ -31,16 +32,19 @@
   - Place in your cafe row
   - Follow any action text
   - Show a concrete example: "If I add this Cookie card, I pay 3 coins and can now satisfy customers who want sweets"
+  - Explain how to organize food items vs. decor items in your cafe layout
   
 - **Serving a Customer:**
   - Match foods in your cafe to what the customer wants
   - Gain 1 coin per matching food type
   - *KEY CLARIFICATION*: "If a customer wants two coffees, you need two coffee symbols in your cafe"
+  - Emphasize that decor doesn't earn coins when serving a customer
   
 - **Gaining a Regular:**
   - Explain the requirements clearly: "If you can provide ALL foods a customer wants AND have at least one of their preferred decor, they become a regular"
   - Demonstrate the tucking under the counter card
   - Emphasize the 4 point value per regular
+  - Clearly distinguish between just serving a customer (for coins) and gaining a regular (for end-game points)
 
 ## 6. Special Guests and Game End (2 minutes)
 - Explain that special guests can be claimed any time during your turn if requirements are met
@@ -66,6 +70,8 @@
 - You might need to serve a customer for 0 coins sometimes
 - If a customer wants multiple of the same food, you need that many in your cafe
 - Decor doesn't earn coins when serving, only foods do
+- Explain the scoring mechanics clearly - card points, regulars (4 points each), special guests (6 points each), and points for remaining coins
+- Mention any special scoring conditions on cards (points per tea variety, etc.)
 
 ## 10. Begin Play & Coach During First Round
 - Guide players through their first turns
